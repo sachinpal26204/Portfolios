@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "role": "Front-END Developer (internship)",
+    "organisation": "Technofilla Pvt ltd",
+    "startDate": "june, 2023",
+    "endDate": "sep,2023",
+    "location": "Mumbai, India"
+  
+  },
+  {
+    "id": 2,
+    "role": "Technical Support Engineer",
+    "organisation": "Microworld software Pvt ltd ",
+    "startDate": "sep, 2023",
+    "endDate": "Present",
+    "location": "Mumbai, India"
+  
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "bootstrap.jpg",
+    "imageSrc": "skills/bootstrap.jpg"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.jpg"
+  },
+  {
+    "title":"Django",
+    "imageSrc":"skills/django.png"
+  },
+  {
+    "title": "Sql",
+    "imageSrc": "skills/Sql.png"
+  },
+  {
+    "title": "OOPs",
+    "imageSrc": "skills/OOPS.jpg"
+  },
+  {
+    "title": "Computer network",
+    "imageSrc": "skills/Computer network.jpg"
+  }
+]
