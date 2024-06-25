@@ -4,8 +4,8 @@
     "title": "React E-Commerce",
     "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github.com/sumanmalakar/React-Shopping-Cart-YouTube",
+    "source": " https://github.com/sumanmalakar/React-Shopping-Cart-YouTube"
   },
  
   {
@@ -13,7 +13,7 @@
     "title": "React Recipe",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
+    "demo": "https://react-recipe-app-theta.vercel.app/",
     "source": "https://www.github.com"
   }
  

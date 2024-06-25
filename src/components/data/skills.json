@@ -12,7 +12,7 @@
     "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "React",
+    "title": "React js",
     "imageSrc": "skills/react.png"
   },
   {
@@ -23,12 +23,9 @@
     "title": "Python",
     "imageSrc": "skills/Python.jpg"
   },
+  
   {
-    "title":"Django",
-    "imageSrc":"skills/django.png"
-  },
-  {
-    "title": "Sql",
+    "title": "SQl",
     "imageSrc": "skills/Sql.png"
   },
   {
